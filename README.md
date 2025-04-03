@@ -14,4 +14,4 @@
 </div>
 
 
-  ![snake gif](https://github.com/tenoriolucas0205/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/tenoriolucas0205/tenoriolucas0205/output/snake.svg" alt="Snake animation" />
