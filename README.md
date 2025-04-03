@@ -1,16 +1,17 @@
-## Hi there 👋
+## Opa beleza?👋
 
-<!--
-**tenoriolucas0205/tenoriolucas0205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Desenvolvendo o estudo de back-end em java.
+- 📫 contato: lucastenorio.oliveira@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+  <a href="https://github.com/tenoriolucas0205">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tenoriolucas0205&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tenoriolucas0205&layout=compact&langs_count=16&theme=dark"/>
+  </a>
+</div>
+
+
+  
